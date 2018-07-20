@@ -24,7 +24,7 @@ namespace HyperVSwitch
             statusLabel.Text = "Detecting current state…\nThis may take a few seconds.";
             statusLabel.ForeColor = Color.Gray;
             actionButton.Visible = false;
-            infoLabel.Text = "© 2016 Yves Goergen, GNU GPL v3";
+            infoLabel.Text = "© 2018 Calvin Che, GNU GPL v3";
         }
 
         #endregion Constructors
